@@ -1,0 +1,9 @@
+semantic-kernel
+openai
+python-dotenv
+bs4
+python-pptx
+tweepy
+streamlit
+PyPDF2
+markdown
